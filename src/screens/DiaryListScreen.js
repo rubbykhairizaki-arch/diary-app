@@ -9,15 +9,15 @@ import happyMood from '../../assets/moods/happy.png';
 const diaryEntries = [
   {
     id: 1,
-    title: 'Lari Pagi di Scapa',
+    title: ' senam pagi bersama mang uceng',
     date: '2026-10-09',
-    preview: 'Hari ini aku bangun lebih pagi dan lari darikenyataan sejauh 10km...',
+    preview: 'makan cungkring nya mang uceng',
     moodSource: happyMood, // Memanggil gambar lokal
     borderColor: '#4ade80', // Warna border: Hijau
   },
   {
     id: 2,
-    title: 'Produktif di Kampus',
+    title: 'main cekih di kampus',
     date: '2026-10-08',
     preview: 'Menyelesaikan modul praktikum dan berdiskusi dengan rekan kerja praktek. Banyak insight baru...',
     moodSource: { uri: 'https://picsum.photos/seed/focus/80' },
