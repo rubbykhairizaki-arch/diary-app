@@ -1,7 +1,7 @@
 # Diary App - Tugas Praktikum Pertemuan 2
 
-Nama: KEMAL AHMAD RABBANI
-NIM: 2430511057
+Nama: Rubby Khairi Zaky
+NIM: 2430511049
 Mata Kuliah: Mobile Multi Platform
 
 ## Langkah Menjalankan Proyek
